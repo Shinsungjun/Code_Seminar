@@ -15,9 +15,9 @@ Code에서 .ipynb 형태로 파일 생성
 <img src="images/Ipython_make.png" width="500" height="150">  
   
 Ipython 창에서 오른쪽 위 Select Kernel 선택  
-<img src="images/select_kernel.png" width="300" height="70">  
+<img src="images/select_kernel.png" width="700" height="400">  
 
 사용하는 Kernel (Conda environment) 선택 - pytorch가 설치되어있는 pyml 선택함
-<img src="images/kernel.png" width="300" height="70">  
+<img src="images/kernel.png" width="700" height="400">  
 
 
