@@ -19,7 +19,6 @@ Ipython 창에서 오른쪽 위 Select Kernel 선택
 
 사용하는 Kernel (Conda environment) 선택 - pytorch가 설치되어있는 pyml 선택함
 <img src="images/env_setting/kernel.png" width="700" height="400">  
-
-
-오른쪽 상단의 Kernel이 pyml로 변경되고, Cell에 pytorch를 import
+  
+오른쪽 상단의 Kernel이 pyml로 변경되고, Cell에 pytorch를 import  
 <img src="images/env_setting/kernel_run.png" width="700" height="150">  
