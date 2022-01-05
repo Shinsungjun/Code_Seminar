@@ -12,4 +12,4 @@ python Extension -> python 검색
 <img src="images/python_extension.png" width="300" height="250">  
   
 Code에서 .ipynb 형태로 파일 생성  
-<img src="images/Ipython_make.png" width="300" height="200">  
+<img src="images/Ipython_make.png" width="200" height="400">  
