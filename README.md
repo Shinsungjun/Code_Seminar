@@ -7,4 +7,4 @@
 
 python Extension -> python 검색
 밑에 보이는 python, python for VSCode, Python Extension Pack 설치
-<img src="images/python_extension.png" width="600" height="400">
+<img src="images/python_extension.png" width="300" height="250">
