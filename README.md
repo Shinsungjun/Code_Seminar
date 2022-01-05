@@ -2,7 +2,7 @@
 
 ## Code Environment Setting
 
-###Visual Studio Code에 Ipython(Jupyter) 환경 만들기###
+### Visual Studio Code에 Ipython(Jupyter) 환경 만들기
 
 **Vs code에 파이썬 확장 및 Ipython 실행**
 
